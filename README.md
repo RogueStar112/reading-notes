@@ -2,7 +2,7 @@
 A growth mindset is believing you can improve through hard work. It's like looking after and growing a plant- you need to water and give it adequate sunlight.
 Just like with coding, you give yourself time to read how to code and apply what is learnt.
 
-<a href="https://github.com/RogueStar112"><img style="invert: (100%)" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
+<a href="https://github.com/RogueStar112"><img style="invert: (100%)" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32"></a>
 
 ## About me
 
