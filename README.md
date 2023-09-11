@@ -9,7 +9,7 @@ https://github.com/RogueStar112
 `Hello World`
 Hi, My name's Demie. I'm 24 years old, and I like to play video games. Games like *Counter Strike* and *Minecraft* are on my radar!
 
-![Me](https://ibb.co/DLrPdt0)
+![Me](https://i.ibb.co/stWp728/demieselfie.png)
 
 
 ## Reminders to foster a growth mindset
