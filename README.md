@@ -6,8 +6,10 @@ https://github.com/RogueStar112
 
 ## About me
 
-`Hello World`
+`Hello World.`
 Hi, My name's Demie. I'm 24 years old, and I like to play video games. Games like *Counter Strike* and *Minecraft* are on my radar!
+I also like taking peaceful walks round the park, music (especially EDM and Rock)! I may not be the most talkative at times and can
+get overwhelmed, but I do what I can!
 
 ![Me](https://i.ibb.co/stWp728/demieselfie.png)
 
