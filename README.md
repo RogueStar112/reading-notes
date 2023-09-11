@@ -20,6 +20,17 @@ get overwhelmed, but I do what I can!
 2. Accept failure as part of the learning journey. Nobody's perfect.
 3. Plan what you seek out to do.
 
+## Lesson Notes
+
+Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
+
+1. Lesson 1 (11/09)
+   1. Markdown
+   2. Terminal Commands
+2. Lesson 2
+3. Lesson 3
+4. Lesson 4 
+5. Lesson 5
 
 
 
