@@ -11,8 +11,7 @@ Hi, My name's Demie. I'm 24 years old, and I like to play video games. Games lik
 I also like taking peaceful walks round the park, music (especially EDM and Rock)! I may not be the most talkative at times and can
 get overwhelmed, but I do what I can!
 
-![Me](https://i.ibb.co/stWp728/demieselfie.png)
-
+<img src="https://i.ibb.co/stWp728/demieselfie.png" alt="demieselfie" border="0" width="128" height="128">
 
 ## Reminders to foster a growth mindset
 
