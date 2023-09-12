@@ -1,23 +1,23 @@
 # Quiz: Revisions and the Cloud
 
-1) *What is Version Control?*
+1. *What is Version Control?*
 
-    Short answer: Version control allows you to save files with various timestamps, stored as a 'version'.
+    Version control allows you to save files with various timestamps, stored as a 'version'.
     You can go back to a previous version, or revert to a more recent one.
 
-2) *What is Cloning in git?*
+2. *What is Cloning in git?*
 
     Cloning is copying an online Git project to your local machine.
 
-3) *What is the command to track and stage files?*
+3. *What is the command to track and stage files?*
 
     `git add (file)` or `git add .` (adds all)
 
-4) *What is the command to take a snapshot of your changed files?*
+4. *What is the command to take a snapshot of your changed files?*
 
     `git commit -m "Update Message"`
 
-5) *What is the command to send your changed files to GitHub?*
+5. *What is the command to send your changed files to GitHub?*
 
     `git push`
 
