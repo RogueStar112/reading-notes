@@ -8,21 +8,21 @@ added, deleted, and modified code.
 
 ## Important commands
 
-git status
+`git status`
 *Tells the following:*
 1. Whether your project is modified from GitHub or not.
 2. Additions/insertions, deletions and modifications.
 
-git clone (SSH project-link)
+`git clone (SSH project-link)`
 *Copies your GitHub project to your local machine, in a given directory.*
 
-git add .
+`git add .`
 *Prepares ALL changes to your GitHub project to be committed.*
 
-git commit -m "Update Message"
+`git commit -m "Update Message"`
 *Saves a copy of your project as a snapshot, which you can revert back to later.*
 
-git push
+`git push`
 *Saves your local file changes to GitHub*
 
 
