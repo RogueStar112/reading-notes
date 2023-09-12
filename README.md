@@ -25,9 +25,10 @@ Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
 
 1. Lesson 1 (11/09)
    1. [Markdown](markdown.md)
-   2. Terminal Commands
+   2. [Terminal Commands](terminalcommands.md)
    3. BONUS: Incorporating HTML and MD to Github Page
 2. Lesson 2
+   1. Basic git commands
 3. Lesson 3
 4. Lesson 4 
 5. Lesson 5
