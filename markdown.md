@@ -16,14 +16,14 @@ TIP: You can make Markdown tables easily with this [table generator](https://www
 | Editing Style | Uses symbols to edit formatting of text | What you see is what you get; no symbols around words |   |   |
 |               |                                         |                                                       |   |   | -->
 
-|   | Feature         | Markdown                                            | Microsoft Word                                                                                                |   |   |   |
-|---|-----------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---|---|---|
-|   |                 |                                                     |                                                                                                               |   |   |   |
-|   | Compatibility   | Can be opened in any text editor                    | Uses the .docx format, so can only be opened in Word                                                          |   |   |   |
-|   | Editing Style   | Uses symbols to edit formatting of text             | What you see is what you get; no symbols around words                                                         |   |   |   |
-|   | Version Control | You may use Git to manage your files.               | Has its own collaboration software.                                                                           |   |   |   |
-|   | Complexity      | No direct user interface, mainly relies on symbols. | Has a user interface to directly edit text, which each having a dedicated button (e.g. bold/italic/underline) |   |   |   |
-|   |                 |                                                     |                                                                                                               |   |   |   |
+| Feature         | Markdown                                            | Microsoft Word                                                                                                |
+|-----------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+|                 |                                                     |                                                                                                               |
+| Compatibility   | Can be opened in any text editor                    | Uses the .docx format, so can only be opened in Word                                                          |
+| Editing Style   | Uses symbols to edit formatting of text             | What you see is what you get; no symbols around words                                                         |
+| Version Control | You may use Git to manage your files.               | Has its own collaboration software.                                                                           |
+| Complexity      | No direct user interface, mainly relies on symbols. | Has a user interface to directly edit text, which each having a dedicated button (e.g. bold/italic/underline) |
+|                 |                                                     |                                                                                                               |
 
 Sources:
 
