@@ -10,11 +10,6 @@ Here's a comparison for Markdown and Word.
 
 TIP: You can make Markdown tables easily with this [table generator](https://www.tablesgenerator.com/markdown_tables)
 
-<!-- |    Feature    | Markdown                                | Microsoft Word                                        |   |   |
-|:-------------:|-----------------------------------------|-------------------------------------------------------|---|---|
-| Compatibility | Can be opened in any text editor        | Uses the .docx format, so can only be opened in Word  |   |   |
-| Editing Style | Uses symbols to edit formatting of text | What you see is what you get; no symbols around words |   |   |
-|               |                                         |                                                       |   |   | -->
 
 | Feature         | Markdown                                            | Microsoft Word                                                                                                |
 |-----------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------|

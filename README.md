@@ -28,7 +28,8 @@ Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
    2. [Terminal Commands](terminalcommands.md)
    3. BONUS: Incorporating HTML and MD to Github Page
 2. Lesson 2
-   1. Basic git commands
+   1. [Basic git commands](02_gitcommands.md)
+   2. [Revisions and Cloud](03_revisionsandcloud.md)
 3. Lesson 3
 4. Lesson 4 
 5. Lesson 5
