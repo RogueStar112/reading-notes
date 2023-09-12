@@ -19,20 +19,26 @@ get overwhelmed, but I do what I can!
 2. Accept failure as part of the learning journey. Nobody's perfect.
 3. Plan what you seek out to do.
 
-## Lesson Notes
+## Lesson Notes - Table of Contents
 
-Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
+## Code 102 Reading Notes
+### Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
 
 1. Lesson 1 (11/09)
-   1. [Markdown](markdown.md)
-   2. [Terminal Commands](terminalcommands.md)
-   3. BONUS: Incorporating HTML and MD to Github Page
+   1. [001 | Markdown](course_102/001_markdown.md)
+   2. [002 | Terminal Commands](course_102/002_terminal_commands.md)
+
 2. Lesson 2
-   1. [Basic git commands](02_gitcommands.md)
-   2. [Revisions and Cloud](03_revisionsandcloud.md)
+   1. [003 | Git commands](course_102/003_git_commands.md)
+   2. [004 | Revisions and the Cloud](course_102/004_revisionsandthecloud.md)
+   3. [005 | Structuring with HTML](course_102/005_html_tutorial.md)
+
 3. Lesson 3
+   1. [006 | CSS Design](course_102/006_css_tutorial.md)
+
 4. Lesson 4 
 5. Lesson 5
+
 
 
 
