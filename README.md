@@ -15,15 +15,6 @@ get overwhelmed, but I do what I can!
 
 This is where I will put my reading notes throughout my journey in Tech Educators. This may sound cliche or patronizing, but I do believe that this journey is not entirely of my own accord, as teamwork is valuable to success. I wish all of those taking part in the course success and enjoyment throughout!
 
-## Reminders to foster a growth mindset
-
-A growth mindset is believing you can improve through hard work. It's like looking after and growing a plant- you need to water and give it adequate sunlight.
-Just like with coding, you give yourself time to read how to code and apply what is learnt.
-
-1. Challenge is inevitable. Embrace it, rather than run away from it.
-2. Accept failure as part of the learning journey. Nobody's perfect.
-3. Plan what you seek out to do.
-
 ## Lesson Notes - Table of Contents
 
 ### Code 102 Reading Notes
@@ -48,4 +39,10 @@ Just like with coding, you give yourself time to read how to code and apply what
 
 
 
+<hr>
 
+
+## Extra Notes 
+
+### Mental Health
+1. [Growth Mindset](extra_notes/growthmindset.md)
