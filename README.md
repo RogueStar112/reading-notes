@@ -17,7 +17,7 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 
 ## Lesson Notes - Table of Contents
 
-### Code 102 Reading Notes
+### Course 102 Reading Notes
 ### Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
 
 1. Lesson 1 (11/09)
@@ -35,7 +35,7 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 4. Lesson 4 
 5. Lesson 5
 
-### Code 201 Reading Notes
+### Course 201 Reading Notes
 
 
 
