@@ -31,8 +31,8 @@ Just like with coding, you give yourself time to read how to code and apply what
 
 2. Lesson 2
    1. [003 - Git commands](course_102/003_git_commands.md)
-   2. [004 - Revisions and the Cloud](course_102/004_revisionsandthecloud.md)
-   3. [005 - Structuring with HTML](course_102/005_html_tutorial.md)
+   2. [004 - Revisions and the Cloud](course_102/004_revisions_and_the_cloud.md)
+   3. [005 - Structuring with HTML](course_102/005_html_structure.md)
 
 3. Lesson 3
    1. [006 - CSS Design](course_102/006_css_tutorial.md)
