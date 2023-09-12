@@ -1,4 +1,4 @@
-[Main Page](https://roguestar112.github.io/reading-notes/)
+[Back to Main Page](https://roguestar112.github.io/reading-notes/)
 
 # What is GitHub?
 
