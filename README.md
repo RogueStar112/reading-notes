@@ -11,6 +11,10 @@ get overwhelmed, but I do what I can!
 
 <img src="https://i.ibb.co/stWp728/demieselfie.png" alt="demieselfie" border="0" width="128" height="128">
 
+## What is this website about?
+
+This is where I will put my reading notes throughout my journey in Tech Educators. This may sound cliche or patronizing, but I do believe that this journey is not entirely of my own accord, as teamwork is valuable to success. I wish all of those taking part in the course success and enjoyment throughout!
+
 ## Reminders to foster a growth mindset
 
 A growth mindset is believing you can improve through hard work. It's like looking after and growing a plant- you need to water and give it adequate sunlight.
@@ -22,7 +26,7 @@ Just like with coding, you give yourself time to read how to code and apply what
 
 ## Lesson Notes - Table of Contents
 
-## Code 102 Reading Notes
+### Code 102 Reading Notes
 ### Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
 
 1. Lesson 1 (11/09)
@@ -40,7 +44,7 @@ Just like with coding, you give yourself time to read how to code and apply what
 4. Lesson 4 
 5. Lesson 5
 
-## Code 201 Reading Notes
+### Code 201 Reading Notes
 
 
 
