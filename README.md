@@ -23,21 +23,14 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 
 ### Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
 
-<!-- 1. Lesson 1 (11/09) -->
    1. [001 - Markdown](course_102/001_markdown.md)
    2. [002 - Terminal Commands](course_102/002_terminal_commands.md)
-
-<!-- 2. Lesson 2 -->
    3. [003 - Git commands](course_102/003_git_commands.md)
    4. [004 - Revisions and the Cloud](course_102/004_revisions_and_the_cloud.md)
    5. [005 - Structuring with HTML](course_102/005_html_structure.md)
-
-<!-- 3. Lesson 3 -->
    6. [006 - CSS Design](course_102/006_css_tutorial.md)
    7. [007 - Javascript](course_102/007_javascript_tutorial.md)
    8. [008 - Operators and Loops](course_102/008_operators_and_loops.md)
-<!-- 4. Lesson 4 
-5. Lesson 5 -->
 
 ### Course 201 Reading Notes
 
