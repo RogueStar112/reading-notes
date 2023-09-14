@@ -13,11 +13,12 @@ and font styles are examples of what CSS can do.
        using `<link rel="stylesheet" href="style.css">`
 
     2. You can add CSS internally in your HTML file using the `<style>` tag.
-    e.g. `<style>p { color: blue; }<style>`. However this isn't ideal, as it mixes
-    separation of concerns. (Separating HTML, CSS and JS independently.)
+    e.g. `<style>p { color: blue; }<style>`. 
 
     3. You can also add the style attribute to HTML tags. e.g. `<p style="color: blue" >I'm blue</p>`
- 
+    
+    Both methods 2 and 3 aren't ideal, as it breaks the
+    separation of concerns rule. (Separating HTML, CSS and JS independently.)
 
 3. Write an example of a CSS rule that would give all `<p>` elements red text.
 
