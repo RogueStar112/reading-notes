@@ -31,7 +31,7 @@ Control flow is the order of which code is executed. For example, code runs from
 
 ## 6. What is a JavaScript function??
 
-A Javascript function runs certain blocks of code when it is called. To call a function, you typically run it like this `function()`.
+A Javascript function runs blocks of code that you put in it, when it is called. To call a function, you typically run it like this `function()`.
 
 ## 7. What does it mean to invoke - or call - a function?
 
