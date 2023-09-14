@@ -1,13 +1,14 @@
 [Back to Main Page](https://roguestar112.github.io/reading-notes/)
 
+# CSS Reading Answers
 
-1. What is the purpose of CSS?
+## 1. What is the purpose of CSS?
 
 CSS allows you to make your webpages have visuals
 that would otherwise not be possible without it. Adding text/background colors, margin/padding,
 and font styles are examples of what CSS can do.
 
-2. What are the three ways to insert CSS into your project?
+## 2. What are the three ways to insert CSS into your project?
 
     1. You can insert the CSS as an external file in your HTML file.
        using `<link rel="stylesheet" href="style.css">`
@@ -20,7 +21,7 @@ and font styles are examples of what CSS can do.
     Both methods 2 and 3 aren't ideal, as it breaks the
     separation of concerns rule. (Separating HTML, CSS and JS independently.)
 
-3. Write an example of a CSS rule that would give all `<p>` elements red text.
+## 3. Write an example of a CSS rule that would give all `<p>` elements red text.
 
 ```
 p {
