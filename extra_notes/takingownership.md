@@ -1,9 +1,10 @@
 [Back to Main Page](https://roguestar112.github.io/reading-notes/)
 
 ##### Written 16/09/2023
-##### Updated 16/09/2023, 18:42
+##### Updated 16/09/2023, 21:33
 
-![Title Image](../images/takingownership.png)
+![Title Image](../images/takingownership_title.png)
+
 
 # Taking Ownership of Mistakes/Actions
 
@@ -18,15 +19,16 @@ I write this as I myself struggle with addiction, and want to try and help other
 Imagine every problem being a cell, with a nucleus inside. That nucleus, has some degree of autonomy and dependence. You can approach these problems in **two ways**:
 
 ## 1. Problems as Threats
-The problem can be treated as a threat, and as such, the nucleus destroys the cell. In real life, say you wanted to clean your room. You only clean it when it's desperately needed to do so. Thus, when the room is cleaned, you feel the problem has been eliminated.
+<hr>
+The problem can be treated as a threat, and as such, it's urgently dealt with. In real life, say you wanted to clean your room. You only clean it when it's desperately needed to do so. Thus, when the room is cleaned, you feel the problem has been eliminated.
 
-Or another example, say you were hungry. My general choice would be to order a delivery takeout. While you do stop getting hungry this way, it has knock-on side effects, such as higher spending and less quantity of food given than if you were to cook your own food.
+Or another example, say you were hungry. My habitual choice would be to order a delivery takeout. While you do stop getting hungry this way, it has knock-on side effects, such as higher spending and less quantity of food given than if you were to cook your own food.
 
 While this can be good in the short-term, it is not healthy in the long-term as you only put those problems aside until they become urgently required to address.
 
 ## 2. Problems as Regularly Occuring
-
-Imagine a problem that keeps returning even after you've resolved the problem earlier. Say, maintaining a stable income. The income fluctuates regularly, as you pay utility bills and rent, food, etc.
+<hr>
+Imagine a problem that keeps returning even after you've resolved the problem earlier. Say, maintaining a stable income. You have to keep earning money to make up for expenses.
 
 Or when your clothes get dirty after a long day. You have to put them in the washing machine at some point, to keep it clean.
 
@@ -38,8 +40,14 @@ When I come back to my original example of materialism, it's a battle of the min
 
 Problem solving isn't just about solving the problem. It's also acknowledging what problems are going to come into your life, anticipating and dealing with them as they go. To **take ownership** of such habits means you've developed some degree of autonomy and repellant to those problems. 
 
-Taking ownership shows **humility**, which is a good way of saying "My solutions aren't always the best, but I can always learn from others.".
+Taking ownership shows **humility**, which is a good way of saying "My solutions aren't the best, but I can always learn from others.".
 
 Nobody becomes a great coder overnight. That is why building good habits, not just in code, but also in life, is important. 
 
-## Conclusion
+## Summary
+
+<img src="../images/takingownership_summary.png" credit="https://www.wallpaperflare.com/youth-active-jump-happy-sunrise-silhouettes-man-people-wallpaper-axrln">
+
+Taking ownership requires acknowledging your problems, then understanding that only **you** can change them. Once you've developed self-control, you can do anything.
+
+

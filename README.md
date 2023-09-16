@@ -13,7 +13,7 @@ get overwhelmed, but I do what I can!
 
 ## What is this website about?
 
-This is where I will put my reading notes throughout my journey in Tech Educators. This may sound cliche or patronizing, but I do believe that this journey is a collaborative effort, as teamwork is valuable to success. I wish all of those taking part in the course success and enjoyment throughout!
+This is where I will put my reading notes throughout my journey in Tech Educators, in addition to some personal journalling. This may sound cliche or patronizing, but I do believe that this journey is a collaborative effort, as teamwork is valuable to success. I wish all of those taking part in the course success and enjoyment throughout!
 
 ## Lesson Notes - Table of Contents
 
