@@ -57,3 +57,4 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 
 ### Mental Health
 1. [Growth Mindset](extra_notes/growthmindset.md)
+2. [Taking Ownership](extra_notes/takingownership.md)
