@@ -46,7 +46,7 @@ Nobody becomes a great coder overnight. That is why building good habits, not ju
 
 ## Summary
 
-<img src="../images/takingownership_summary.png" credit="https://www.wallpaperflare.com/youth-active-jump-happy-sunrise-silhouettes-man-people-wallpaper-axrln">
+<img src="../images/takingownership_summary.png" width="256" height="171" credit="https://www.wallpaperflare.com/youth-active-jump-happy-sunrise-silhouettes-man-people-wallpaper-axrln">
 
 Taking ownership requires acknowledging your problems, then understanding that only **you** can change them. Once you've developed self-control, you can do anything.
 
