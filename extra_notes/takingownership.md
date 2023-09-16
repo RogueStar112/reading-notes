@@ -1,7 +1,9 @@
 [Back to Main Page](https://roguestar112.github.io/reading-notes/)
 
 ##### Written 16/09/2023
-##### Updated 16/09/2023, 17:42
+##### Updated 16/09/2023, 18:42
+
+![Title Image](../images/takingownership.png)
 
 # Taking Ownership of Mistakes/Actions
 
