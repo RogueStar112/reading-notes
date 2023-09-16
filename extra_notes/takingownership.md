@@ -32,7 +32,7 @@ To see the problem as a regularly occuring thing, means you have to develop a ha
 
 When I come back to my original example of materialism, it's a battle of the mind. I fight the impulse to insistently get the latest technology, by developing **critical thinking** habits. For example, I will only get a very minor upgrade from my current phone to that latest phone, as I bought mine a year ago. However, my materialistic wants are **impulsive threats**, which have to be addressed with **conscious, combative thinking**.
 
-## what does Problem-Solving have to do with Taking Ownership?
+## What does Problem-Solving have to do with Taking Ownership?
 
 Problem solving isn't just about solving the problem. It's also acknowledging what problems are going to come into your life, anticipating and dealing with them as they go. To **take ownership** of such habits means you've developed some degree of autonomy and repellant to those problems. 
 
