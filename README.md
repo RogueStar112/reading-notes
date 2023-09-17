@@ -36,7 +36,7 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 
 ### Course 201 Reading Notes
 
-1. [TBA](course_201/009_setup_developer_toolbelt.md)
+1. [009 - Setup Developer Toolbelt](course_201/009_setup_developer_toolbelt.md)
 2. [TBA](course_201/010.md) 
 3. [TBA](course_201/011.md) 
 4. [TBA](course_201/012.md) 

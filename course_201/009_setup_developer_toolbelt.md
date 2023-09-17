@@ -5,10 +5,10 @@
 <!-- Created and Updated At Timestamps, Manually Updated. created by Demie -->
 <div style="position: relative; width: 100%;">
 <p style="position: absolute; left: 0;"> Created at 17/09/2023 </p>
-<p style="position: absolute; right: 0;"> Updated at <t:1694952643:f> </p>
+<p style="position: absolute; right: 0;"> Updated at 17/09/2023, 17:15 </p>
+
 </div>
 
-<hr>
 
 ## Preface
 
@@ -16,16 +16,17 @@ As developers, we're constantly learning, no matter what level you're in. For in
 
 ## How HTTP sends data between computers
 
-I'm going to sum this up as if this were a compelling story.
+*I'm going to sum this up as if this were a compelling story.*
 
-The computer comes to life through its power button. The monitor flashes, and straight-away you surf
-on the Web.
+You power on the computer. The monitor flashes, and straight-away you surf on the Web.
 
 Your friend calls you on your phone. They're talking about how they're excited about Starfield, the game.
 
 You get very excited, so you look up 'Starfield' on Google. It returned a wide range of results with the word 'Starfield.' 
 
 When you click on the game's website, imagine you are driving to Starfield Land. Before you drive there, you have to know its address. This is where the DNS kicks in. The website's Domain Name System is like a destination for computers to visit.
+
+The computer returns a bunch of its details, such as IP, to the server, in which the server gives the website's content back.
 
 ## How HTML, CSS, and JS is parsed in the browser
 
@@ -37,15 +38,17 @@ The CSS is like the coat of paint, and additional visuals being applied to the c
 
 Then, JS is like the car parts e.g. engine and tyres. They are fit in last.
 
+![Car analogy](../images/parsingwebsites.png);
+
 ## How to find images to add to a Website
 
 There are two ways you can add images to your website:
 
-1. Downloading the image
+### 1. Downloading the image
 Go to your preferred search engine, and try to look up the image you want. Once you get to that image,
 you right click on it and click 'Save Image As', and store it onto your computer locally.
 
-2. Copying the image link as a source.
+### 2. Copying the image link as a source.
 When you go to the image, left click on the image, right click the enlarged image and then click 'Open Image in New Tab', and copy the URL link.
 
 
