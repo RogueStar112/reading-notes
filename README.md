@@ -32,9 +32,11 @@ This is where I will put my reading notes throughout my journey in Tech Educator
    7. [007 - Javascript](course_102/007_javascript_tutorial.md)
    8. [008 - Operators and Loops](course_102/008_operators_and_loops.md)
 
+<hr>
+
 ### Course 201 Reading Notes
 
-1. [TBA](course_201/009.md)
+1. [TBA](course_201/009_setup_developer_toolbelt.md)
 2. [TBA](course_201/010.md) 
 3. [TBA](course_201/011.md) 
 4. [TBA](course_201/012.md) 
@@ -51,7 +53,6 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 15. [TBA](course_201/023.md)
 
 <hr>
-
 
 ## Extra Notes 
 
