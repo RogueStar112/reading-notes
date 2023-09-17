@@ -86,7 +86,6 @@ that it will work outside of functions. Use `let` instead.
 HTML attributes are put within HTML tags to give extra features. For example, 
 
 ```html
-
 <!-- Attributes here are class, and onClick.-->
 <div class='red' onClick='removeRed()'>This text is red</div>
 ```
@@ -94,7 +93,6 @@ HTML attributes are put within HTML tags to give extra features. For example,
 2. The anatomy of an HTML element is as follows:
 
 ```html
-
 <!-- 1. A typical HTML element consists of an opening and closing tag, as well as its content inside of those tags. -->
 <p>Hello World</p>
 
@@ -113,13 +111,12 @@ Article: If the text makes sense on its own, or is intended to be reused, such a
 Section: If your page doesn't have a certain HTML tag to describe it, unlike navigation bars (`<nav>`), use `<section>`. For instance,
 if you had a set of buttons in Javascript. 
 
-[More About Articles](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
-[More About Sections](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
+- [More About Articles](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+- [More About Sections](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
 
 4. A 'typical' website would include the following:
 
 ```html
-
 <!DOCTYPE html>
 
 <html>

@@ -54,6 +54,19 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 
 <hr>
 
+## Project Notes
+*These are self-made project notes which act as a guide on how to design and produce websites.*
+1. Portfolio Website
+   - [Phase 1: Design and Purpose](./project_notes/portfolio_p1.md)
+   - [Phase 2: Wireframing](./project_notes/portfolio_p2.md)
+   - Phase 3: HTML
+   - Phase 4: CSS
+   - Phase 5: JS
+
+
+
+
+
 ## Extra Notes 
 
 ### Mental Health
