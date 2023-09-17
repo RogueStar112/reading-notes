@@ -9,6 +9,7 @@
 
 </div>
 
+<hr>
 
 ## Preface
 
@@ -38,7 +39,7 @@ The CSS is like the coat of paint, and additional visuals being applied to the c
 
 Then, JS is like the car parts e.g. engine and tyres. They are fit in last.
 
-![Car analogy](../images/parsingwebsites.png);
+![Car analogy](../images/parsingwebsites.png)
 
 ## How to find images to add to a Website
 
