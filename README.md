@@ -37,7 +37,7 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 ### Course 201 Reading Notes
 
 1. [009 - Setup Developer Toolbelt](course_201/009_setup_developer_toolbelt.md)
-2. [TBA](course_201/010.md) 
+2. [010 - Basics of HTML, CSS and JS](course_201/010_web_basics.md) 
 3. [TBA](course_201/011.md) 
 4. [TBA](course_201/012.md) 
 5. [TBA](course_201/013.md) 
@@ -68,6 +68,11 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 
 
 ## Extra Notes 
+
+### Accessibility on the Web
+
+1. [Accessibility: ARIA/Screen Readers](extra_notes/accessibility.md)
+
 
 ### Mental Health
 1. [Growth Mindset](extra_notes/growthmindset.md)
