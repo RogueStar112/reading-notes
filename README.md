@@ -40,7 +40,7 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 2. [010 - Basics of HTML, CSS and JS](course_201/010_web_basics.md)
 3. [011 - HTML Lists, Control Flow JS, CSS Box Model](course_201/011_read_class03.md)
 4. [012 - HTML Links, JS Functions, and Intro to CSS Layout](course_201/012_read_class04.md)
-5. [TBA](course_201/013.md)
+5. [Readings: Images, Color, Text](course_201/013_read_class05.md)
 6. [TBA](course_201/014.md)
 7. [TBA](course_201/015.md)
 8. [TBA](course_201/016.md)
