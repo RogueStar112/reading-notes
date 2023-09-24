@@ -42,7 +42,7 @@ I'd ask him what colour scheme he would like for his website first. Perhaps shad
 3. What should you consider when choosing fonts for an HTML document?
 
 Consider these factors for fonts:
-- Compatibility. Fonts like Arial, Times New Roman, are easily accessible. However fonts like Montserrat require it to be installed throguh Google Fonts.
+- Compatibility. Fonts like Arial, Times New Roman, are easily accessible. However fonts like Montserrat require it to be installed through Google Fonts.
 
 - Readability. Personally, if using handwriting fonts, I'd use them for headings and I'd use a readable font like Montserrat/Arial for the paragraph elements.
 
