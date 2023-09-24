@@ -18,8 +18,7 @@ Also, the figure element makes it so images can be linked in one container, incr
 
 4. Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
 
-GIFs can either move or not move. They lose quality the more it's resized. SVG images on the other hand don't
-lose quality when resized, making it perfect for icons.
+GIFs can either move or not move. They lose quality the more it's resized from the original. SVG images on the other hand don't lose quality when resized, making it perfect for icons.
 
 5. What image type would you use to display a screenshot on your website and why?
 
