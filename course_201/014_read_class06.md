@@ -1,5 +1,7 @@
 [Back to Main Page](https://roguestar112.github.io/reading-notes/)
 
+# Problem Domain, Objects, and the DOM
+
 1. How would you describe an object to a non-technical friend you grew up with?
 
 Imagine taking apart any object, like a car for instance. The parts may be: the car frame, wheels, steering wheel, engine, etc. If one of these parts were absent, the car wouldn't function.

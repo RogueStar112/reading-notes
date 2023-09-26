@@ -42,7 +42,7 @@ This is where I will put my reading notes throughout my journey in Tech Educator
 4. [012 - HTML Links, JS Functions, and Intro to CSS Layout](course_201/012_read_class04.md)
 5. [013 - Images, Color, Text](course_201/013_read_class05.md)
 6. [014 - Problem Domain, Objects, and the DOM](course_201/014_read_class06.md)
-7. [TBA](course_201/015.md)
+7. [015 - Object-Oriented Programming, HTML Tables](course_201/015_read_class_07.md)
 8. [TBA](course_201/016.md)
 9. [TBA](course_201/017.md)
 10. [TBA](course_201/018.md)
