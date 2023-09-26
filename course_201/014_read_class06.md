@@ -78,4 +78,4 @@ The code will console log
 `Spot is 14 in human years`,
 when dog.humanAge() is run.
 
-"This" Refers to the object itself. By using "this", you are able to reference object properties, whilst being able to initialize functions.
+"This" Refers to the object itself. By using "this", you are able to reference object properties, (in this case, `dog`'s properties), whilst being able to initialize functions.
